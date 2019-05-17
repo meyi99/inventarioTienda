@@ -1,0 +1,6 @@
+/home/meyi/Projects/tienda/tienda/bin/Debug/tienda.exe
+/home/meyi/Projects/tienda/tienda/bin/Debug/tienda.pdb
+/home/meyi/Projects/tienda/tienda/obj/x86/Debug/tienda.csprojAssemblyReference.cache
+/home/meyi/Projects/tienda/tienda/obj/x86/Debug/tienda.csproj.CoreCompileInputs.cache
+/home/meyi/Projects/tienda/tienda/obj/x86/Debug/tienda.exe
+/home/meyi/Projects/tienda/tienda/obj/x86/Debug/tienda.pdb
